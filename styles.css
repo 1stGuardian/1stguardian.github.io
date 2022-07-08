@@ -1,0 +1,31 @@
+.navbar {
+	background-color: #6610f2;
+}
+
+.jumbotron {
+	padding-top: 2rem;
+	background-color: #303030; /* rgb(227, 209, 255); */
+}
+
+body {
+	background-color: #303030;
+}
+
+.about,
+.gallery,
+.contact {
+	background-color: #202020;
+}
+
+.card {
+	border: 2px solid #6610f2;
+}
+
+.form-control:focus {
+	border-color: #6610f2;
+}
+
+.btn-purple {
+	border-color: #6610f2;
+	background-color: #6610f2;
+}
